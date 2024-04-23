@@ -1,0 +1,15 @@
+apple
+5
+banana
+9
+orange
+3
+grape
+10
+milk
+bread
+90
+1
+honey
+potato
+999
